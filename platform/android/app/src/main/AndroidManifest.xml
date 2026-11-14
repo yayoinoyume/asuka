@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+        android:allowBackup="false"
         android:label="${asukaAppName}"
         android:icon="${asukaIcon}"
         android:supportsRtl="true"
